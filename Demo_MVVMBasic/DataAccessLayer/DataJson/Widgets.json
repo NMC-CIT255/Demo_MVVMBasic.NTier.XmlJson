@@ -1,0 +1,30 @@
+[
+  {
+    "Id":  "1",
+    "Name": "Furry",
+    "Color": "Red",
+    "UnitPrice": "4.95",
+    "CurrentInventory": "10"
+  },
+  {
+    "Id": "2",
+    "Name": "Woody",
+    "Color": "Brown",
+    "UnitPrice": "6.95",
+    "CurrentInventory": "15"
+  },
+  {
+    "Id": "3",
+    "Name": "Rubbery",
+    "Color": "Black",
+    "UnitPrice": "3.95",
+    "CurrentInventory": "20"
+  },
+  {
+    "Id": "4",
+    "Name": "Glassy",
+    "Color": "Clear",
+    "UnitPrice": "9.95",
+    "CurrentInventory": "2"
+  }  
+]
